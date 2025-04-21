@@ -10,6 +10,7 @@ This project explores Reddit discussions surrounding the Israel-Palestine confli
 ## Dataset Description
 
 The dataset `reddit_opinion_PSE_ISR.csv` (≈3.7GB) includes 2.5 million+ Reddit comments. Each row represents a single comment enriched with post-level and user-level metadata.
+Please use the following link to download: https://drive.google.com/drive/folders/15pLxk606BG-KJM1GFmeYTPr7Z39nYY-n?usp=sharing
 
 
 
